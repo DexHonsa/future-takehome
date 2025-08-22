@@ -2,6 +2,10 @@
 
 A fitness exercise explorer with video demonstrations and detailed exercise information.
 
+[Live Demo](https://future.dexhonsa.me)
+
+
+
 ## Features
 
 ### Core Functionality
